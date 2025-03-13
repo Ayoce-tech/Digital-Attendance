@@ -1,0 +1,13 @@
+.container {
+    margin-top: 5pt;
+    border: 15pt;
+    box-shadow: 12pt;
+}
+
+.register1{
+ border-color: aqua;
+}
+
+.btn btn-light{
+    border-radius: 10px;
+}
